@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Koji 👋
 
-<!--
-**kowwwwji/kowwwwji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Infrastructure engineer in Japan, 10+ years in web development.
+Go / TypeScript. Infrastructure as code with OpenTofu on GCP and AWS.
 
-Here are some ideas to get you started:
+### Development Environment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|                    |                                                                                                                                                                                                                |
+| -----------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|             **OS** | macOS                                                                                                                                                                                                          |
+|         **Editor** | [Neovim](https://github.com/kowwwwji/dotfiles/tree/master/.config/nvim)                                                                                                                                        |
+|       **Terminal** | [Ghostty](https://github.com/kowwwwji/dotfiles/blob/master/.config/ghostty/config) + [tmux](https://github.com/kowwwwji/dotfiles/blob/master/.tmux.conf)                                                       |
+|          **Shell** | [zsh](https://github.com/kowwwwji/dotfiles/tree/master/.zsh) (sheldon, powerlevel10k)                                                                                                                          |
+| **Window Manager** | [AeroSpace](https://github.com/kowwwwji/dotfiles/blob/master/.config/aerospace/aerospace.toml) + [SketchyBar](https://github.com/kowwwwji/dotfiles/blob/master/.config/sketchybar/sketchybarrc) + JankyBorders |
+|       **Keyboard** | HHKB (US layout) + [Karabiner-Elements](https://github.com/kowwwwji/dotfiles/blob/master/.config/karabiner/karabiner.json)                                                                                     |
+|      **Trackball** | Kensington SlimBlade Pro                                                                                                                                                                                       |
+|       **Launcher** | Raycast ([scripts](https://github.com/kowwwwji/dotfiles/tree/master/.scripts/raycast))                                                                                                                         |
+|        **Runtime** | [mise](https://github.com/kowwwwji/dotfiles/blob/master/.config/mise/config.toml)                                                                                                                              |
+|       **AI Agent** | [Claude Code](https://github.com/kowwwwji/dotfiles/tree/master/dot_claude)                                                                                                                                     |
+
+📝 X: [@kowwwwji](https://x.com/kowwwwji)
